@@ -1,0 +1,5 @@
+C:\Users\vinicius\source\repos\RestfulAPI\RestfulAPI\obj\Debug\netcoreapp3.0\RestfulAPI.csprojAssemblyReference.cache
+C:\Users\vinicius\source\repos\RestfulAPI\RestfulAPI\obj\Debug\netcoreapp3.0\RestfulAPI.AssemblyInfoInputs.cache
+C:\Users\vinicius\source\repos\RestfulAPI\RestfulAPI\obj\Debug\netcoreapp3.0\RestfulAPI.AssemblyInfo.cs
+C:\Users\vinicius\source\repos\RestfulAPI\RestfulAPI\obj\Debug\netcoreapp3.0\RestfulAPI.csproj.CoreCompileInputs.cache
+C:\Users\vinicius\source\repos\RestfulAPI\RestfulAPI\obj\Debug\netcoreapp3.0\RestfulAPI.MvcApplicationPartsAssemblyInfo.cache
