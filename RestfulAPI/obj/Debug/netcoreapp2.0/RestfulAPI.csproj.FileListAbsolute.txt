@@ -1,4 +1,0 @@
-C:\Users\vinicius\source\repos\RestfulAPI\RestfulAPI\obj\Debug\netcoreapp2.0\RestfulAPI.csprojAssemblyReference.cache
-C:\Users\vinicius\source\repos\RestfulAPI\RestfulAPI\obj\Debug\netcoreapp2.0\RestfulAPI.AssemblyInfoInputs.cache
-C:\Users\vinicius\source\repos\RestfulAPI\RestfulAPI\obj\Debug\netcoreapp2.0\RestfulAPI.AssemblyInfo.cs
-C:\Users\vinicius\source\repos\RestfulAPI\RestfulAPI\obj\Debug\netcoreapp2.0\RestfulAPI.csproj.CoreCompileInputs.cache
